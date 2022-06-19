@@ -8,5 +8,5 @@ Some of the examples this NFT can be used for, include appreciating efforts (Kud
 <img width="1408" alt="Screenshot 2022-06-19 at 11 24 18 PM" src="https://user-images.githubusercontent.com/7895856/174494110-84bbc635-2dab-41d6-81e2-e685af05640f.png">
 
 To mint and gift an NFT, you can visit:
-<Coming soon>
+https://mumbai.polygonscan.com/address/0x87e42ef3f93e764ecc4f6179be71b667d2f35ac2#code
 
